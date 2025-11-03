@@ -6,7 +6,7 @@
 
 ###
 
-<h6 align="left">I’m a Computer Systems Engineering student, specializing in Intelligent Technologies.<br><br>Passionate about AI, data science, and software development.<br><br> Interested in machine learning, cloud computing, and intelligent systems that solve real-world problems.<br><br>Currently learning and building with Python, Java, Docker, AWS.<br><br>Always exploring how technology and intelligence can turn ideas into meaningful impact.</h6>
+<h5 align="left">I’m a Computer Systems Engineering student, specializing in Intelligent Technologies.<br><br>Passionate about AI, data science, and software development.<br><br> Interested in machine learning, cloud computing, and intelligent systems that solve real-world problems.<br><br>Currently learning and building with Python, Java, Docker, AWS.<br><br>Always exploring how technology and intelligence can turn ideas into meaningful impact.</h5>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="center">Front end</h3>
+<h3 align="center">Frontend</h3>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h3 align="center">Back end</h3>
+<h3 align="center">Backend</h3>
 
 ###
 
