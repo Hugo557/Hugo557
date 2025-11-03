@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">About me</h3>
+<h2 align="left">About me</h2>
 
 ###
 
-<h5 align="left">I’m a Computer Systems Engineering student, specializing in Intelligent Technologies.<br><br>Passionate about AI, data science, and software development.<br><br> Interested in machine learning, cloud computing, and intelligent systems that solve real-world problems.<br><br>Currently learning and building with Python, Java, Docker, AWS.<br><br>Always exploring how technology and intelligence can turn ideas into meaningful impact.</h5>
+<h4 align="left">I’m a Computer Systems Engineering student, specializing in Intelligent Technologies.<br><br>Passionate about AI, data science, and software development.<br><br> Interested in machine learning, cloud computing, and intelligent systems that solve real-world problems.<br><br>Currently learning and building with Python, Java, Docker, AWS.<br><br>Always exploring how technology and intelligence can turn ideas into meaningful impact.</h4>
 
 ###
 
