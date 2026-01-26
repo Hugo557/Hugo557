@@ -125,7 +125,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="www.linkedin.com/in/hugo-emilio-espinoza-tun-283416395" target="_blank">
+  <a href="https://www.linkedin.com/in/hugo-emilio-espinoza-tun-283416395" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/hugo_557?igsh=a3I2OGNtM2Z3OXAz&utm_source=qr" target="_blank">
